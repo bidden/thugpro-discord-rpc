@@ -1,1 +1,1 @@
-# thugpro-rpc
+# thugpro-discord-rpc
