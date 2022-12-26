@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THUGPro RPC", "THUGPro RPC\THUGPro RPC.csproj", "{D5A4F5C4-7467-400E-B151-B7A5870A6800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A4F5C4-7467-400E-B151-B7A5870A6800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A4F5C4-7467-400E-B151-B7A5870A6800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A4F5C4-7467-400E-B151-B7A5870A6800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A4F5C4-7467-400E-B151-B7A5870A6800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE3317F-E400-4FC2-B01F-D889EEA2B411}
+	EndGlobalSection
+EndGlobal
